@@ -167,13 +167,7 @@ public class HomePage {
         return new FlightResultsPage(driver);
     }
 
-    /**
-     * This method clicks on the "Hotels" link in the home page
-     */
-    public HotelsPage clickHotelsLink() {
-        hotelLink.click();
-        return new HotelsPage(driver);
-    }
+  
 
     /**
      * This method clicks on the "Your Tripis" link on the top right of the page

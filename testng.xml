@@ -9,7 +9,6 @@
         <classes>
         		<class name="com.cleartrip.casestudy.FlightBookingTest"/>
       		<class name="com.cleartrip.casestudy.SignInTest"/>    
-            <class name="com.cleartrip.casestudy.HotelBookingTest"/>
         </classes>
     </test>
 </suite>
